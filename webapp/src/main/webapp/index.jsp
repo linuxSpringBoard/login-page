@@ -7,7 +7,7 @@
 <title>Linux Spring Board Form</title>
 </head>
 <body>
-<h1>Guru Register Form</h1>
+<h1>Linux Spring Board Form</h1>
 <form action="LSB_form" method="post">
 			<table style="with: 50%">
 				<tr>
